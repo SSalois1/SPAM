@@ -4,8 +4,8 @@
 ![Atlantic Mackerel](640x427-Mackerel-Atlantic-NOAAFisheries.png)
 
 ## Overview
-The goal of this project is to advance the understanding of atlantic 
-mackerel in the northeast region
+The goal of this project is to advance the understanding of Atlantic 
+mackerel spawning seasonality in the Northeast Region. 
 
 ## Repository contents
 The purpose of this repository is to store scripts, visualization tools and 
